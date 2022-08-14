@@ -12,9 +12,9 @@ pip install -r requirements.txt
 
 1. Prepare client and tracking event.
 2. Run the client, client will track every event every 15 seconds.
-3. Prepare API id and API key for API calling, 
-due to I still not pass the register, 
-I will use mock data and won't change during time.
+3. Prepare API id and API key for API calling,
+   due to I still not pass the register,
+   I will use mock data and won't change during time.
 
 ```python
 from api.enums import Cities
@@ -35,6 +35,14 @@ client.run()
 
 - If you have the API id and API key, put them in `API_ID` and `API_KEY` in `API/base.py`.
 - Set `MOCK` to `False` in `API/base.py` and check if API can work.
+
+## Future Work
+
+- Use real API to fetch data.
+- Allow to add event after client start.
+- Allow cancel event after client start.
+- Make sure events are always unique, override `__new__` and `__init__` method?
+- Rewrite API call methods.
 
 ## Author
 
