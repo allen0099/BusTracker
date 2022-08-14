@@ -1,0 +1,1707 @@
+[
+  {
+    "StopUID": "NWT208583",
+    "StopID": "208583",
+    "StopName": {
+      "Zh_tw": "臺北客運南雅站",
+      "En": "Taipei Bus Nanya Station"
+    },
+    "RouteUID": "NWT16468",
+    "RouteID": "16468",
+    "RouteName": {
+      "Zh_tw": "57",
+      "En": "57"
+    },
+    "Direction": 0,
+    "StopStatus": 1,
+    "SrcUpdateTime": "2022-08-13T13:21:50+08:00",
+    "UpdateTime": "2022-08-13T13:21:52+08:00"
+  },
+  {
+    "StopUID": "NWT148643",
+    "StopID": "148643",
+    "StopName": {
+      "Zh_tw": "南雅站",
+      "En": "Nanya Stop"
+    },
+    "RouteUID": "NWT16468",
+    "RouteID": "16468",
+    "RouteName": {
+      "Zh_tw": "57",
+      "En": "57"
+    },
+    "Direction": 1,
+    "EstimateTime": 467,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2022-08-13T13:21:50+08:00",
+    "UpdateTime": "2022-08-13T13:21:52+08:00"
+  },
+  {
+    "StopUID": "NWT199164",
+    "StopID": "199164",
+    "StopName": {
+      "Zh_tw": "積穗派出所",
+      "En": "Jisui Police Substation"
+    },
+    "RouteUID": "NWT16468",
+    "RouteID": "16468",
+    "RouteName": {
+      "Zh_tw": "57",
+      "En": "57"
+    },
+    "Direction": 0,
+    "EstimateTime": 892,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2022-08-13T13:21:50+08:00",
+    "UpdateTime": "2022-08-13T13:21:52+08:00"
+  },
+  {
+    "StopUID": "NWT127699",
+    "StopID": "127699",
+    "StopName": {
+      "Zh_tw": "仁愛新村",
+      "En": "Renai New Village"
+    },
+    "RouteUID": "NWT16468",
+    "RouteID": "16468",
+    "RouteName": {
+      "Zh_tw": "57",
+      "En": "57"
+    },
+    "Direction": 0,
+    "StopStatus": 1,
+    "SrcUpdateTime": "2022-08-13T13:21:50+08:00",
+    "UpdateTime": "2022-08-13T13:21:52+08:00"
+  },
+  {
+    "StopUID": "NWT127698",
+    "StopID": "127698",
+    "StopName": {
+      "Zh_tw": "豫章工商",
+      "En": "Yu Chang Technical & Commercial Vocational Senior High School"
+    },
+    "RouteUID": "NWT16468",
+    "RouteID": "16468",
+    "RouteName": {
+      "Zh_tw": "57",
+      "En": "57"
+    },
+    "Direction": 0,
+    "StopStatus": 1,
+    "SrcUpdateTime": "2022-08-13T13:21:50+08:00",
+    "UpdateTime": "2022-08-13T13:21:52+08:00"
+  },
+  {
+    "StopUID": "NWT127697",
+    "StopID": "127697",
+    "StopName": {
+      "Zh_tw": "亞東科技大學",
+      "En": "Oriental University of Science & Technology"
+    },
+    "RouteUID": "NWT16468",
+    "RouteID": "16468",
+    "RouteName": {
+      "Zh_tw": "57",
+      "En": "57"
+    },
+    "Direction": 0,
+    "StopStatus": 1,
+    "SrcUpdateTime": "2022-08-13T13:21:50+08:00",
+    "UpdateTime": "2022-08-13T13:21:52+08:00"
+  },
+  {
+    "StopUID": "NWT127696",
+    "StopID": "127696",
+    "StopName": {
+      "Zh_tw": "南雅站",
+      "En": "Nanya Stop"
+    },
+    "RouteUID": "NWT16468",
+    "RouteID": "16468",
+    "RouteName": {
+      "Zh_tw": "57",
+      "En": "57"
+    },
+    "Direction": 0,
+    "StopStatus": 1,
+    "SrcUpdateTime": "2022-08-13T13:21:50+08:00",
+    "UpdateTime": "2022-08-13T13:21:52+08:00"
+  },
+  {
+    "StopUID": "NWT127742",
+    "StopID": "127742",
+    "StopName": {
+      "Zh_tw": "秀山站",
+      "En": "Xiushan Stop"
+    },
+    "RouteUID": "NWT16468",
+    "RouteID": "16468",
+    "RouteName": {
+      "Zh_tw": "57",
+      "En": "57"
+    },
+    "Direction": 0,
+    "EstimateTime": 833,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2022-08-13T13:21:50+08:00",
+    "UpdateTime": "2022-08-13T13:21:52+08:00"
+  },
+  {
+    "StopUID": "NWT127741",
+    "StopID": "127741",
+    "StopName": {
+      "Zh_tw": "自立路",
+      "En": "Zili Rd."
+    },
+    "RouteUID": "NWT16468",
+    "RouteID": "16468",
+    "RouteName": {
+      "Zh_tw": "57",
+      "En": "57"
+    },
+    "Direction": 0,
+    "EstimateTime": 710,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2022-08-13T13:21:50+08:00",
+    "UpdateTime": "2022-08-13T13:21:52+08:00"
+  },
+  {
+    "StopUID": "NWT127740",
+    "StopID": "127740",
+    "StopName": {
+      "Zh_tw": "民生路",
+      "En": "MinSheng Rd."
+    },
+    "RouteUID": "NWT16468",
+    "RouteID": "16468",
+    "RouteName": {
+      "Zh_tw": "57",
+      "En": "57"
+    },
+    "Direction": 0,
+    "EstimateTime": 648,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2022-08-13T13:21:50+08:00",
+    "UpdateTime": "2022-08-13T13:21:52+08:00"
+  },
+  {
+    "StopUID": "NWT127739",
+    "StopID": "127739",
+    "StopName": {
+      "Zh_tw": "永元路",
+      "En": "Yongyuan Rd."
+    },
+    "RouteUID": "NWT16468",
+    "RouteID": "16468",
+    "RouteName": {
+      "Zh_tw": "57",
+      "En": "57"
+    },
+    "Direction": 0,
+    "EstimateTime": 573,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2022-08-13T13:21:50+08:00",
+    "UpdateTime": "2022-08-13T13:21:52+08:00"
+  },
+  {
+    "StopUID": "NWT127738",
+    "StopID": "127738",
+    "StopName": {
+      "Zh_tw": "福和國中",
+      "En": "Fuhe Junior High School"
+    },
+    "RouteUID": "NWT16468",
+    "RouteID": "16468",
+    "RouteName": {
+      "Zh_tw": "57",
+      "En": "57"
+    },
+    "Direction": 0,
+    "EstimateTime": 507,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2022-08-13T13:21:50+08:00",
+    "UpdateTime": "2022-08-13T13:21:52+08:00"
+  },
+  {
+    "StopUID": "NWT127737",
+    "StopID": "127737",
+    "StopName": {
+      "Zh_tw": "永利路",
+      "En": "Yongli Rd."
+    },
+    "RouteUID": "NWT16468",
+    "RouteID": "16468",
+    "RouteName": {
+      "Zh_tw": "57",
+      "En": "57"
+    },
+    "Direction": 0,
+    "EstimateTime": 451,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2022-08-13T13:21:50+08:00",
+    "UpdateTime": "2022-08-13T13:21:52+08:00"
+  },
+  {
+    "StopUID": "NWT127736",
+    "StopID": "127736",
+    "StopName": {
+      "Zh_tw": "福和里",
+      "En": "Fuhe Village"
+    },
+    "RouteUID": "NWT16468",
+    "RouteID": "16468",
+    "RouteName": {
+      "Zh_tw": "57",
+      "En": "57"
+    },
+    "Direction": 0,
+    "EstimateTime": 353,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2022-08-13T13:21:50+08:00",
+    "UpdateTime": "2022-08-13T13:21:52+08:00"
+  },
+  {
+    "StopUID": "NWT127735",
+    "StopID": "127735",
+    "StopName": {
+      "Zh_tw": "福和路",
+      "En": "Fuhe Rd."
+    },
+    "RouteUID": "NWT16468",
+    "RouteID": "16468",
+    "RouteName": {
+      "Zh_tw": "57",
+      "En": "57"
+    },
+    "Direction": 0,
+    "EstimateTime": 319,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2022-08-13T13:21:50+08:00",
+    "UpdateTime": "2022-08-13T13:21:52+08:00"
+  },
+  {
+    "StopUID": "NWT127734",
+    "StopID": "127734",
+    "StopName": {
+      "Zh_tw": "永和區公所(竹林路)",
+      "En": "Yonghe Dist. Office(Zhulin Rd.)"
+    },
+    "RouteUID": "NWT16468",
+    "RouteID": "16468",
+    "RouteName": {
+      "Zh_tw": "57",
+      "En": "57"
+    },
+    "Direction": 0,
+    "EstimateTime": 180,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2022-08-13T13:21:50+08:00",
+    "UpdateTime": "2022-08-13T13:21:52+08:00"
+  },
+  {
+    "StopUID": "NWT127732",
+    "StopID": "127732",
+    "StopName": {
+      "Zh_tw": "網溪國小",
+      "En": "Wangxi Elementary School"
+    },
+    "RouteUID": "NWT16468",
+    "RouteID": "16468",
+    "RouteName": {
+      "Zh_tw": "57",
+      "En": "57"
+    },
+    "Direction": 0,
+    "EstimateTime": 115,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2022-08-13T13:21:50+08:00",
+    "UpdateTime": "2022-08-13T13:21:52+08:00"
+  },
+  {
+    "StopUID": "NWT127731",
+    "StopID": "127731",
+    "StopName": {
+      "Zh_tw": "竹林路口",
+      "En": "Zhulin Rd. Entrance"
+    },
+    "RouteUID": "NWT16468",
+    "RouteID": "16468",
+    "RouteName": {
+      "Zh_tw": "57",
+      "En": "57"
+    },
+    "Direction": 0,
+    "EstimateTime": 26,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2022-08-13T13:21:50+08:00",
+    "UpdateTime": "2022-08-13T13:21:52+08:00"
+  },
+  {
+    "StopUID": "NWT127730",
+    "StopID": "127730",
+    "StopName": {
+      "Zh_tw": "捷運頂溪站",
+      "En": "MRT Dingxi Sta."
+    },
+    "RouteUID": "NWT16468",
+    "RouteID": "16468",
+    "RouteName": {
+      "Zh_tw": "57",
+      "En": "57"
+    },
+    "Direction": 0,
+    "EstimateTime": 869,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2022-08-13T13:21:50+08:00",
+    "UpdateTime": "2022-08-13T13:21:52+08:00"
+  },
+  {
+    "StopUID": "NWT127728",
+    "StopID": "127728",
+    "StopName": {
+      "Zh_tw": "自由街口",
+      "En": "Ziyou Rd. Entrance"
+    },
+    "RouteUID": "NWT16468",
+    "RouteID": "16468",
+    "RouteName": {
+      "Zh_tw": "57",
+      "En": "57"
+    },
+    "Direction": 0,
+    "EstimateTime": 639,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2022-08-13T13:21:50+08:00",
+    "UpdateTime": "2022-08-13T13:21:52+08:00"
+  },
+  {
+    "StopUID": "NWT127726",
+    "StopID": "127726",
+    "StopName": {
+      "Zh_tw": "捷運永安市場站",
+      "En": "MRT Yungan Market Station"
+    },
+    "RouteUID": "NWT16468",
+    "RouteID": "16468",
+    "RouteName": {
+      "Zh_tw": "57",
+      "En": "57"
+    },
+    "Direction": 0,
+    "EstimateTime": 484,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2022-08-13T13:21:50+08:00",
+    "UpdateTime": "2022-08-13T13:21:52+08:00"
+  },
+  {
+    "StopUID": "NWT127725",
+    "StopID": "127725",
+    "StopName": {
+      "Zh_tw": "華泰新城",
+      "En": "Huatai Xincheng"
+    },
+    "RouteUID": "NWT16468",
+    "RouteID": "16468",
+    "RouteName": {
+      "Zh_tw": "57",
+      "En": "57"
+    },
+    "Direction": 0,
+    "EstimateTime": 407,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2022-08-13T13:21:50+08:00",
+    "UpdateTime": "2022-08-13T13:21:52+08:00"
+  },
+  {
+    "StopUID": "NWT127724",
+    "StopID": "127724",
+    "StopName": {
+      "Zh_tw": "雙和里",
+      "En": "Shuanghe Li"
+    },
+    "RouteUID": "NWT16468",
+    "RouteID": "16468",
+    "RouteName": {
+      "Zh_tw": "57",
+      "En": "57"
+    },
+    "Direction": 0,
+    "EstimateTime": 349,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2022-08-13T13:21:50+08:00",
+    "UpdateTime": "2022-08-13T13:21:52+08:00"
+  },
+  {
+    "StopUID": "NWT127723",
+    "StopID": "127723",
+    "StopName": {
+      "Zh_tw": "南山高中",
+      "En": "Nanshan Senior High School"
+    },
+    "RouteUID": "NWT16468",
+    "RouteID": "16468",
+    "RouteName": {
+      "Zh_tw": "57",
+      "En": "57"
+    },
+    "Direction": 0,
+    "EstimateTime": 269,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2022-08-13T13:21:50+08:00",
+    "UpdateTime": "2022-08-13T13:21:52+08:00"
+  },
+  {
+    "StopUID": "NWT127722",
+    "StopID": "127722",
+    "StopName": {
+      "Zh_tw": "中和派出所",
+      "En": "Zhonghe Dist. Office(Zhonghe Rd.)"
+    },
+    "RouteUID": "NWT16468",
+    "RouteID": "16468",
+    "RouteName": {
+      "Zh_tw": "57",
+      "En": "57"
+    },
+    "Direction": 0,
+    "EstimateTime": 232,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2022-08-13T13:21:50+08:00",
+    "UpdateTime": "2022-08-13T13:21:52+08:00"
+  },
+  {
+    "StopUID": "NWT127721",
+    "StopID": "127721",
+    "StopName": {
+      "Zh_tw": "中和廟口",
+      "En": "Zhonghe Temple"
+    },
+    "RouteUID": "NWT16468",
+    "RouteID": "16468",
+    "RouteName": {
+      "Zh_tw": "57",
+      "En": "57"
+    },
+    "Direction": 0,
+    "EstimateTime": 105,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2022-08-13T13:21:50+08:00",
+    "UpdateTime": "2022-08-13T13:21:52+08:00"
+  },
+  {
+    "StopUID": "NWT127729",
+    "StopID": "127729",
+    "StopName": {
+      "Zh_tw": "樂華夜市",
+      "En": "Lehua Shopping Circle"
+    },
+    "RouteUID": "NWT16468",
+    "RouteID": "16468",
+    "RouteName": {
+      "Zh_tw": "57",
+      "En": "57"
+    },
+    "Direction": 0,
+    "EstimateTime": 734,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2022-08-13T13:21:50+08:00",
+    "UpdateTime": "2022-08-13T13:21:52+08:00"
+  },
+  {
+    "StopUID": "NWT127720",
+    "StopID": "127720",
+    "StopName": {
+      "Zh_tw": "連城中和路口",
+      "En": "Liancheng Zhonghe Rd. Entrance"
+    },
+    "RouteUID": "NWT16468",
+    "RouteID": "16468",
+    "RouteName": {
+      "Zh_tw": "57",
+      "En": "57"
+    },
+    "Direction": 0,
+    "EstimateTime": 874,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2022-08-13T13:21:50+08:00",
+    "UpdateTime": "2022-08-13T13:21:52+08:00"
+  },
+  {
+    "StopUID": "NWT127717",
+    "StopID": "127717",
+    "StopName": {
+      "Zh_tw": "台貿一村",
+      "En": "Taimao Village 1"
+    },
+    "RouteUID": "NWT16468",
+    "RouteID": "16468",
+    "RouteName": {
+      "Zh_tw": "57",
+      "En": "57"
+    },
+    "Direction": 0,
+    "EstimateTime": 583,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2022-08-13T13:21:50+08:00",
+    "UpdateTime": "2022-08-13T13:21:52+08:00"
+  },
+  {
+    "StopUID": "NWT127715",
+    "StopID": "127715",
+    "StopName": {
+      "Zh_tw": "連城中正路口",
+      "En": "Liancheng Zhongzheng Intersection"
+    },
+    "RouteUID": "NWT16468",
+    "RouteID": "16468",
+    "RouteName": {
+      "Zh_tw": "57",
+      "En": "57"
+    },
+    "Direction": 0,
+    "EstimateTime": 405,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2022-08-13T13:21:50+08:00",
+    "UpdateTime": "2022-08-13T13:21:52+08:00"
+  },
+  {
+    "StopUID": "NWT127714",
+    "StopID": "127714",
+    "StopName": {
+      "Zh_tw": "連城路",
+      "En": "Liancheng Rd."
+    },
+    "RouteUID": "NWT16468",
+    "RouteID": "16468",
+    "RouteName": {
+      "Zh_tw": "57",
+      "En": "57"
+    },
+    "Direction": 0,
+    "EstimateTime": 324,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2022-08-13T13:21:50+08:00",
+    "UpdateTime": "2022-08-13T13:21:52+08:00"
+  },
+  {
+    "StopUID": "NWT127713",
+    "StopID": "127713",
+    "StopName": {
+      "Zh_tw": "中和高中(員山路)",
+      "En": "Zhonghe High School"
+    },
+    "RouteUID": "NWT16468",
+    "RouteID": "16468",
+    "RouteName": {
+      "Zh_tw": "57",
+      "En": "57"
+    },
+    "Direction": 0,
+    "EstimateTime": 205,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2022-08-13T13:21:50+08:00",
+    "UpdateTime": "2022-08-13T13:21:52+08:00"
+  },
+  {
+    "StopUID": "NWT127712",
+    "StopID": "127712",
+    "StopName": {
+      "Zh_tw": "員山派出所",
+      "En": "Yuanshan Police Substation"
+    },
+    "RouteUID": "NWT16468",
+    "RouteID": "16468",
+    "RouteName": {
+      "Zh_tw": "57",
+      "En": "57"
+    },
+    "Direction": 0,
+    "EstimateTime": 135,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2022-08-13T13:21:50+08:00",
+    "UpdateTime": "2022-08-13T13:21:52+08:00"
+  },
+  {
+    "StopUID": "NWT127711",
+    "StopID": "127711",
+    "StopName": {
+      "Zh_tw": "積穗國中",
+      "En": "JiSuei Junior High School"
+    },
+    "RouteUID": "NWT16468",
+    "RouteID": "16468",
+    "RouteName": {
+      "Zh_tw": "57",
+      "En": "57"
+    },
+    "Direction": 0,
+    "EstimateTime": 60,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2022-08-13T13:21:50+08:00",
+    "UpdateTime": "2022-08-13T13:21:52+08:00"
+  },
+  {
+    "StopUID": "NWT127710",
+    "StopID": "127710",
+    "StopName": {
+      "Zh_tw": "員山公園",
+      "En": "Yuanshan"
+    },
+    "RouteUID": "NWT16468",
+    "RouteID": "16468",
+    "RouteName": {
+      "Zh_tw": "57",
+      "En": "57"
+    },
+    "Direction": 0,
+    "EstimateTime": 968,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2022-08-13T13:21:50+08:00",
+    "UpdateTime": "2022-08-13T13:21:52+08:00"
+  },
+  {
+    "StopUID": "NWT127718",
+    "StopID": "127718",
+    "StopName": {
+      "Zh_tw": "中和國稅局",
+      "En": "Gonglu 2nd. Village"
+    },
+    "RouteUID": "NWT16468",
+    "RouteID": "16468",
+    "RouteName": {
+      "Zh_tw": "57",
+      "En": "57"
+    },
+    "Direction": 0,
+    "EstimateTime": 641,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2022-08-13T13:21:50+08:00",
+    "UpdateTime": "2022-08-13T13:21:52+08:00"
+  },
+  {
+    "StopUID": "NWT127706",
+    "StopID": "127706",
+    "StopName": {
+      "Zh_tw": "國泰街口",
+      "En": "Guotai St. Entrance"
+    },
+    "RouteUID": "NWT16468",
+    "RouteID": "16468",
+    "RouteName": {
+      "Zh_tw": "57",
+      "En": "57"
+    },
+    "Direction": 0,
+    "EstimateTime": 499,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2022-08-13T13:21:50+08:00",
+    "UpdateTime": "2022-08-13T13:21:52+08:00"
+  },
+  {
+    "StopUID": "NWT127705",
+    "StopID": "127705",
+    "StopName": {
+      "Zh_tw": "電信訓練所",
+      "En": "Telecommunications Training Center"
+    },
+    "RouteUID": "NWT16468",
+    "RouteID": "16468",
+    "RouteName": {
+      "Zh_tw": "57",
+      "En": "57"
+    },
+    "Direction": 0,
+    "EstimateTime": 466,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2022-08-13T13:21:50+08:00",
+    "UpdateTime": "2022-08-13T13:21:52+08:00"
+  },
+  {
+    "StopUID": "NWT127704",
+    "StopID": "127704",
+    "StopName": {
+      "Zh_tw": "民族區運路口",
+      "En": "Minzu & Quyun Intersection"
+    },
+    "RouteUID": "NWT16468",
+    "RouteID": "16468",
+    "RouteName": {
+      "Zh_tw": "57",
+      "En": "57"
+    },
+    "Direction": 0,
+    "EstimateTime": 392,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2022-08-13T13:21:50+08:00",
+    "UpdateTime": "2022-08-13T13:21:52+08:00"
+  },
+  {
+    "StopUID": "NWT127703",
+    "StopID": "127703",
+    "StopName": {
+      "Zh_tw": "介壽公園(館前東路)",
+      "En": "Jieshou Park"
+    },
+    "RouteUID": "NWT16468",
+    "RouteID": "16468",
+    "RouteName": {
+      "Zh_tw": "57",
+      "En": "57"
+    },
+    "Direction": 0,
+    "EstimateTime": 303,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2022-08-13T13:21:50+08:00",
+    "UpdateTime": "2022-08-13T13:21:52+08:00"
+  },
+  {
+    "StopUID": "NWT127702",
+    "StopID": "127702",
+    "StopName": {
+      "Zh_tw": "後站商圈",
+      "En": "Old Banqiao Sta. Shopping Circle"
+    },
+    "RouteUID": "NWT16468",
+    "RouteID": "16468",
+    "RouteName": {
+      "Zh_tw": "57",
+      "En": "57"
+    },
+    "Direction": 0,
+    "EstimateTime": 231,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2022-08-13T13:21:50+08:00",
+    "UpdateTime": "2022-08-13T13:21:52+08:00"
+  },
+  {
+    "StopUID": "NWT127701",
+    "StopID": "127701",
+    "StopName": {
+      "Zh_tw": "鄉雲里",
+      "En": "Xiangyun Li"
+    },
+    "RouteUID": "NWT16468",
+    "RouteID": "16468",
+    "RouteName": {
+      "Zh_tw": "57",
+      "En": "57"
+    },
+    "Direction": 0,
+    "EstimateTime": 101,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2022-08-13T13:21:50+08:00",
+    "UpdateTime": "2022-08-13T13:21:52+08:00"
+  },
+  {
+    "StopUID": "NWT127700",
+    "StopID": "127700",
+    "StopName": {
+      "Zh_tw": "福星里",
+      "En": "Fuxing Village"
+    },
+    "RouteUID": "NWT16468",
+    "RouteID": "16468",
+    "RouteName": {
+      "Zh_tw": "57",
+      "En": "57"
+    },
+    "Direction": 0,
+    "EstimateTime": 0,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2022-08-13T13:21:50+08:00",
+    "UpdateTime": "2022-08-13T13:21:52+08:00"
+  },
+  {
+    "StopUID": "NWT127709",
+    "StopID": "127709",
+    "StopName": {
+      "Zh_tw": "積穗",
+      "En": "Jisui"
+    },
+    "RouteUID": "NWT16468",
+    "RouteID": "16468",
+    "RouteName": {
+      "Zh_tw": "57",
+      "En": "57"
+    },
+    "Direction": 0,
+    "EstimateTime": 787,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2022-08-13T13:21:50+08:00",
+    "UpdateTime": "2022-08-13T13:21:52+08:00"
+  },
+  {
+    "StopUID": "NWT127708",
+    "StopID": "127708",
+    "StopName": {
+      "Zh_tw": "板橋監理站",
+      "En": "Banqiao Motor Vehicle Supervision Sta."
+    },
+    "RouteUID": "NWT16468",
+    "RouteID": "16468",
+    "RouteName": {
+      "Zh_tw": "57",
+      "En": "57"
+    },
+    "Direction": 0,
+    "EstimateTime": 752,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2022-08-13T13:21:50+08:00",
+    "UpdateTime": "2022-08-13T13:21:52+08:00"
+  },
+  {
+    "StopUID": "NWT127707",
+    "StopID": "127707",
+    "StopName": {
+      "Zh_tw": "環球購物中心",
+      "En": "Globall Mall"
+    },
+    "RouteUID": "NWT16468",
+    "RouteID": "16468",
+    "RouteName": {
+      "Zh_tw": "57",
+      "En": "57"
+    },
+    "Direction": 0,
+    "EstimateTime": 619,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2022-08-13T13:21:50+08:00",
+    "UpdateTime": "2022-08-13T13:21:52+08:00"
+  },
+  {
+    "StopUID": "NWT127786",
+    "StopID": "127786",
+    "StopName": {
+      "Zh_tw": "仁愛新村",
+      "En": "Renai New Village"
+    },
+    "RouteUID": "NWT16468",
+    "RouteID": "16468",
+    "RouteName": {
+      "Zh_tw": "57",
+      "En": "57"
+    },
+    "Direction": 1,
+    "EstimateTime": 148,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2022-08-13T13:21:50+08:00",
+    "UpdateTime": "2022-08-13T13:21:52+08:00"
+  },
+  {
+    "StopUID": "NWT127785",
+    "StopID": "127785",
+    "StopName": {
+      "Zh_tw": "福星里",
+      "En": "Fuxing Village"
+    },
+    "RouteUID": "NWT16468",
+    "RouteID": "16468",
+    "RouteName": {
+      "Zh_tw": "57",
+      "En": "57"
+    },
+    "Direction": 1,
+    "EstimateTime": 41,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2022-08-13T13:21:50+08:00",
+    "UpdateTime": "2022-08-13T13:21:52+08:00"
+  },
+  {
+    "StopUID": "NWT127784",
+    "StopID": "127784",
+    "StopName": {
+      "Zh_tw": "鄉雲里",
+      "En": "Xiangyun Village"
+    },
+    "RouteUID": "NWT16468",
+    "RouteID": "16468",
+    "RouteName": {
+      "Zh_tw": "57",
+      "En": "57"
+    },
+    "Direction": 1,
+    "EstimateTime": 0,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2022-08-13T13:21:50+08:00",
+    "UpdateTime": "2022-08-13T13:21:52+08:00"
+  },
+  {
+    "StopUID": "NWT127783",
+    "StopID": "127783",
+    "StopName": {
+      "Zh_tw": "後站商圈",
+      "En": "Old Banqiao Sta. Shopping Circle"
+    },
+    "RouteUID": "NWT16468",
+    "RouteID": "16468",
+    "RouteName": {
+      "Zh_tw": "57",
+      "En": "57"
+    },
+    "Direction": 1,
+    "EstimateTime": 471,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2022-08-13T13:21:50+08:00",
+    "UpdateTime": "2022-08-13T13:21:52+08:00"
+  },
+  {
+    "StopUID": "NWT127782",
+    "StopID": "127782",
+    "StopName": {
+      "Zh_tw": "板橋外站",
+      "En": "Banqiao Bus Terminal Extension"
+    },
+    "RouteUID": "NWT16468",
+    "RouteID": "16468",
+    "RouteName": {
+      "Zh_tw": "57",
+      "En": "57"
+    },
+    "Direction": 1,
+    "EstimateTime": 370,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2022-08-13T13:21:50+08:00",
+    "UpdateTime": "2022-08-13T13:21:52+08:00"
+  },
+  {
+    "StopUID": "NWT127781",
+    "StopID": "127781",
+    "StopName": {
+      "Zh_tw": "民族區運路口",
+      "En": "Minzu & Quyun Intersection"
+    },
+    "RouteUID": "NWT16468",
+    "RouteID": "16468",
+    "RouteName": {
+      "Zh_tw": "57",
+      "En": "57"
+    },
+    "Direction": 1,
+    "EstimateTime": 290,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2022-08-13T13:21:50+08:00",
+    "UpdateTime": "2022-08-13T13:21:52+08:00"
+  },
+  {
+    "StopUID": "NWT127780",
+    "StopID": "127780",
+    "StopName": {
+      "Zh_tw": "電信訓練所",
+      "En": "Telecommunications Training Center"
+    },
+    "RouteUID": "NWT16468",
+    "RouteID": "16468",
+    "RouteName": {
+      "Zh_tw": "57",
+      "En": "57"
+    },
+    "Direction": 1,
+    "EstimateTime": 228,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2022-08-13T13:21:50+08:00",
+    "UpdateTime": "2022-08-13T13:21:52+08:00"
+  },
+  {
+    "StopUID": "NWT127779",
+    "StopID": "127779",
+    "StopName": {
+      "Zh_tw": "國泰街口",
+      "En": "Guotai St. Entrance"
+    },
+    "RouteUID": "NWT16468",
+    "RouteID": "16468",
+    "RouteName": {
+      "Zh_tw": "57",
+      "En": "57"
+    },
+    "Direction": 1,
+    "EstimateTime": 198,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2022-08-13T13:21:50+08:00",
+    "UpdateTime": "2022-08-13T13:21:52+08:00"
+  },
+  {
+    "StopUID": "NWT127778",
+    "StopID": "127778",
+    "StopName": {
+      "Zh_tw": "環球購物中心",
+      "En": "Globall Mall"
+    },
+    "RouteUID": "NWT16468",
+    "RouteID": "16468",
+    "RouteName": {
+      "Zh_tw": "57",
+      "En": "57"
+    },
+    "Direction": 1,
+    "EstimateTime": 40,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2022-08-13T13:21:50+08:00",
+    "UpdateTime": "2022-08-13T13:21:52+08:00"
+  },
+  {
+    "StopUID": "NWT127777",
+    "StopID": "127777",
+    "StopName": {
+      "Zh_tw": "板橋監理站",
+      "En": "Banqiao Motor Vehicle Supervision Station"
+    },
+    "RouteUID": "NWT16468",
+    "RouteID": "16468",
+    "RouteName": {
+      "Zh_tw": "57",
+      "En": "57"
+    },
+    "Direction": 1,
+    "EstimateTime": 1985,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2022-08-13T13:21:50+08:00",
+    "UpdateTime": "2022-08-13T13:21:52+08:00"
+  },
+  {
+    "StopUID": "NWT127776",
+    "StopID": "127776",
+    "StopName": {
+      "Zh_tw": "積穗",
+      "En": "Jisui"
+    },
+    "RouteUID": "NWT16468",
+    "RouteID": "16468",
+    "RouteName": {
+      "Zh_tw": "57",
+      "En": "57"
+    },
+    "Direction": 1,
+    "EstimateTime": 1910,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2022-08-13T13:21:50+08:00",
+    "UpdateTime": "2022-08-13T13:21:52+08:00"
+  },
+  {
+    "StopUID": "NWT127775",
+    "StopID": "127775",
+    "StopName": {
+      "Zh_tw": "員山公園",
+      "En": "Yuanshan"
+    },
+    "RouteUID": "NWT16468",
+    "RouteID": "16468",
+    "RouteName": {
+      "Zh_tw": "57",
+      "En": "57"
+    },
+    "Direction": 1,
+    "EstimateTime": 1816,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2022-08-13T13:21:50+08:00",
+    "UpdateTime": "2022-08-13T13:21:52+08:00"
+  },
+  {
+    "StopUID": "NWT127774",
+    "StopID": "127774",
+    "StopName": {
+      "Zh_tw": "積穗國中",
+      "En": "JiSuei Junior High School"
+    },
+    "RouteUID": "NWT16468",
+    "RouteID": "16468",
+    "RouteName": {
+      "Zh_tw": "57",
+      "En": "57"
+    },
+    "Direction": 1,
+    "EstimateTime": 1765,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2022-08-13T13:21:50+08:00",
+    "UpdateTime": "2022-08-13T13:21:52+08:00"
+  },
+  {
+    "StopUID": "NWT127773",
+    "StopID": "127773",
+    "StopName": {
+      "Zh_tw": "員山派出所",
+      "En": "Yuanshan Police Substation"
+    },
+    "RouteUID": "NWT16468",
+    "RouteID": "16468",
+    "RouteName": {
+      "Zh_tw": "57",
+      "En": "57"
+    },
+    "Direction": 1,
+    "EstimateTime": 1715,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2022-08-13T13:21:50+08:00",
+    "UpdateTime": "2022-08-13T13:21:52+08:00"
+  },
+  {
+    "StopUID": "NWT127772",
+    "StopID": "127772",
+    "StopName": {
+      "Zh_tw": "中和高中(員山路)",
+      "En": "Zhonghe High School"
+    },
+    "RouteUID": "NWT16468",
+    "RouteID": "16468",
+    "RouteName": {
+      "Zh_tw": "57",
+      "En": "57"
+    },
+    "Direction": 1,
+    "EstimateTime": 1572,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2022-08-13T13:21:50+08:00",
+    "UpdateTime": "2022-08-13T13:21:52+08:00"
+  },
+  {
+    "StopUID": "NWT127771",
+    "StopID": "127771",
+    "StopName": {
+      "Zh_tw": "連城路",
+      "En": "Liancheng Rd."
+    },
+    "RouteUID": "NWT16468",
+    "RouteID": "16468",
+    "RouteName": {
+      "Zh_tw": "57",
+      "En": "57"
+    },
+    "Direction": 1,
+    "EstimateTime": 1495,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2022-08-13T13:21:50+08:00",
+    "UpdateTime": "2022-08-13T13:21:52+08:00"
+  },
+  {
+    "StopUID": "NWT127770",
+    "StopID": "127770",
+    "StopName": {
+      "Zh_tw": "連城中正路口",
+      "En": "Liancheng Zhongzheng Intersection"
+    },
+    "RouteUID": "NWT16468",
+    "RouteID": "16468",
+    "RouteName": {
+      "Zh_tw": "57",
+      "En": "57"
+    },
+    "Direction": 1,
+    "EstimateTime": 1427,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2022-08-13T13:21:50+08:00",
+    "UpdateTime": "2022-08-13T13:21:52+08:00"
+  },
+  {
+    "StopUID": "NWT127768",
+    "StopID": "127768",
+    "StopName": {
+      "Zh_tw": "台貿一村",
+      "En": "Taimao Village 1"
+    },
+    "RouteUID": "NWT16468",
+    "RouteID": "16468",
+    "RouteName": {
+      "Zh_tw": "57",
+      "En": "57"
+    },
+    "Direction": 1,
+    "EstimateTime": 1240,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2022-08-13T13:21:50+08:00",
+    "UpdateTime": "2022-08-13T13:21:52+08:00"
+  },
+  {
+    "StopUID": "NWT127767",
+    "StopID": "127767",
+    "StopName": {
+      "Zh_tw": "中和國稅局",
+      "En": "Gonglu 2nd. Village"
+    },
+    "RouteUID": "NWT16468",
+    "RouteID": "16468",
+    "RouteName": {
+      "Zh_tw": "57",
+      "En": "57"
+    },
+    "Direction": 1,
+    "EstimateTime": 1159,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2022-08-13T13:21:50+08:00",
+    "UpdateTime": "2022-08-13T13:21:52+08:00"
+  },
+  {
+    "StopUID": "NWT127765",
+    "StopID": "127765",
+    "StopName": {
+      "Zh_tw": "連城中和路口",
+      "En": "Liancheng Zhonghe Rd. Entrance"
+    },
+    "RouteUID": "NWT16468",
+    "RouteID": "16468",
+    "RouteName": {
+      "Zh_tw": "57",
+      "En": "57"
+    },
+    "Direction": 1,
+    "EstimateTime": 995,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2022-08-13T13:21:50+08:00",
+    "UpdateTime": "2022-08-13T13:21:52+08:00"
+  },
+  {
+    "StopUID": "NWT127764",
+    "StopID": "127764",
+    "StopName": {
+      "Zh_tw": "中和廟口",
+      "En": "Zhonghe"
+    },
+    "RouteUID": "NWT16468",
+    "RouteID": "16468",
+    "RouteName": {
+      "Zh_tw": "57",
+      "En": "57"
+    },
+    "Direction": 1,
+    "EstimateTime": 894,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2022-08-13T13:21:50+08:00",
+    "UpdateTime": "2022-08-13T13:21:52+08:00"
+  },
+  {
+    "StopUID": "NWT127763",
+    "StopID": "127763",
+    "StopName": {
+      "Zh_tw": "中和派出所",
+      "En": "Zhonghe Dist. Office(Zhonghe Rd.)"
+    },
+    "RouteUID": "NWT16468",
+    "RouteID": "16468",
+    "RouteName": {
+      "Zh_tw": "57",
+      "En": "57"
+    },
+    "Direction": 1,
+    "EstimateTime": 825,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2022-08-13T13:21:50+08:00",
+    "UpdateTime": "2022-08-13T13:21:52+08:00"
+  },
+  {
+    "StopUID": "NWT127762",
+    "StopID": "127762",
+    "StopName": {
+      "Zh_tw": "南山高中",
+      "En": "Nanshan High School"
+    },
+    "RouteUID": "NWT16468",
+    "RouteID": "16468",
+    "RouteName": {
+      "Zh_tw": "57",
+      "En": "57"
+    },
+    "Direction": 1,
+    "EstimateTime": 798,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2022-08-13T13:21:50+08:00",
+    "UpdateTime": "2022-08-13T13:21:52+08:00"
+  },
+  {
+    "StopUID": "NWT127761",
+    "StopID": "127761",
+    "StopName": {
+      "Zh_tw": "雙和里",
+      "En": "Shuanghe Li"
+    },
+    "RouteUID": "NWT16468",
+    "RouteID": "16468",
+    "RouteName": {
+      "Zh_tw": "57",
+      "En": "57"
+    },
+    "Direction": 1,
+    "EstimateTime": 748,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2022-08-13T13:21:50+08:00",
+    "UpdateTime": "2022-08-13T13:21:52+08:00"
+  },
+  {
+    "StopUID": "NWT127760",
+    "StopID": "127760",
+    "StopName": {
+      "Zh_tw": "華泰新城",
+      "En": "Huatai Xincheng"
+    },
+    "RouteUID": "NWT16468",
+    "RouteID": "16468",
+    "RouteName": {
+      "Zh_tw": "57",
+      "En": "57"
+    },
+    "Direction": 1,
+    "EstimateTime": 678,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2022-08-13T13:21:50+08:00",
+    "UpdateTime": "2022-08-13T13:21:52+08:00"
+  },
+  {
+    "StopUID": "NWT127759",
+    "StopID": "127759",
+    "StopName": {
+      "Zh_tw": "捷運永安市場站",
+      "En": "MRT Yungan Market Station"
+    },
+    "RouteUID": "NWT16468",
+    "RouteID": "16468",
+    "RouteName": {
+      "Zh_tw": "57",
+      "En": "57"
+    },
+    "Direction": 1,
+    "EstimateTime": 571,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2022-08-13T13:21:50+08:00",
+    "UpdateTime": "2022-08-13T13:21:52+08:00"
+  },
+  {
+    "StopUID": "NWT127758",
+    "StopID": "127758",
+    "StopName": {
+      "Zh_tw": "永和路口",
+      "En": "Yonghe Rd."
+    },
+    "RouteUID": "NWT16468",
+    "RouteID": "16468",
+    "RouteName": {
+      "Zh_tw": "57",
+      "En": "57"
+    },
+    "Direction": 1,
+    "EstimateTime": 462,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2022-08-13T13:21:50+08:00",
+    "UpdateTime": "2022-08-13T13:21:52+08:00"
+  },
+  {
+    "StopUID": "NWT127757",
+    "StopID": "127757",
+    "StopName": {
+      "Zh_tw": "樂華夜市",
+      "En": "Lehua Shopping Circle"
+    },
+    "RouteUID": "NWT16468",
+    "RouteID": "16468",
+    "RouteName": {
+      "Zh_tw": "57",
+      "En": "57"
+    },
+    "Direction": 1,
+    "EstimateTime": 369,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2022-08-13T13:21:50+08:00",
+    "UpdateTime": "2022-08-13T13:21:52+08:00"
+  },
+  {
+    "StopUID": "NWT127756",
+    "StopID": "127756",
+    "StopName": {
+      "Zh_tw": "中興街口",
+      "En": "Zhongxing St. Entrance"
+    },
+    "RouteUID": "NWT16468",
+    "RouteID": "16468",
+    "RouteName": {
+      "Zh_tw": "57",
+      "En": "57"
+    },
+    "Direction": 1,
+    "EstimateTime": 293,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2022-08-13T13:21:50+08:00",
+    "UpdateTime": "2022-08-13T13:21:52+08:00"
+  },
+  {
+    "StopUID": "NWT127755",
+    "StopID": "127755",
+    "StopName": {
+      "Zh_tw": "捷運頂溪站",
+      "En": "MRT Dingxi Sta."
+    },
+    "RouteUID": "NWT16468",
+    "RouteID": "16468",
+    "RouteName": {
+      "Zh_tw": "57",
+      "En": "57"
+    },
+    "Direction": 1,
+    "EstimateTime": 220,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2022-08-13T13:21:50+08:00",
+    "UpdateTime": "2022-08-13T13:21:52+08:00"
+  },
+  {
+    "StopUID": "NWT127754",
+    "StopID": "127754",
+    "StopName": {
+      "Zh_tw": "竹林路口",
+      "En": "Zhulin Rd. Entrance"
+    },
+    "RouteUID": "NWT16468",
+    "RouteID": "16468",
+    "RouteName": {
+      "Zh_tw": "57",
+      "En": "57"
+    },
+    "Direction": 1,
+    "EstimateTime": 154,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2022-08-13T13:21:50+08:00",
+    "UpdateTime": "2022-08-13T13:21:52+08:00"
+  },
+  {
+    "StopUID": "NWT127753",
+    "StopID": "127753",
+    "StopName": {
+      "Zh_tw": "網溪國小一",
+      "En": "Wangxi Elementary School"
+    },
+    "RouteUID": "NWT16468",
+    "RouteID": "16468",
+    "RouteName": {
+      "Zh_tw": "57",
+      "En": "57"
+    },
+    "Direction": 1,
+    "EstimateTime": 24,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2022-08-13T13:21:50+08:00",
+    "UpdateTime": "2022-08-13T13:21:52+08:00"
+  },
+  {
+    "StopUID": "NWT127752",
+    "StopID": "127752",
+    "StopName": {
+      "Zh_tw": "網溪國小",
+      "En": "Wangxi Elementary School I"
+    },
+    "RouteUID": "NWT16468",
+    "RouteID": "16468",
+    "RouteName": {
+      "Zh_tw": "57",
+      "En": "57"
+    },
+    "Direction": 1,
+    "EstimateTime": 110,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2022-08-13T13:21:50+08:00",
+    "UpdateTime": "2022-08-13T13:21:52+08:00"
+  },
+  {
+    "StopUID": "NWT127751",
+    "StopID": "127751",
+    "StopName": {
+      "Zh_tw": "永和區公所(竹林路)",
+      "En": "Yonghe City Office"
+    },
+    "RouteUID": "NWT16468",
+    "RouteID": "16468",
+    "RouteName": {
+      "Zh_tw": "57",
+      "En": "57"
+    },
+    "Direction": 1,
+    "EstimateTime": 355,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2022-08-13T13:21:50+08:00",
+    "UpdateTime": "2022-08-13T13:21:52+08:00"
+  },
+  {
+    "StopUID": "NWT127750",
+    "StopID": "127750",
+    "StopName": {
+      "Zh_tw": "福和路",
+      "En": "Fuhe Rd."
+    },
+    "RouteUID": "NWT16468",
+    "RouteID": "16468",
+    "RouteName": {
+      "Zh_tw": "57",
+      "En": "57"
+    },
+    "Direction": 1,
+    "EstimateTime": 274,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2022-08-13T13:21:50+08:00",
+    "UpdateTime": "2022-08-13T13:21:52+08:00"
+  },
+  {
+    "StopUID": "NWT127749",
+    "StopID": "127749",
+    "StopName": {
+      "Zh_tw": "福和里",
+      "En": "Fuhe Village"
+    },
+    "RouteUID": "NWT16468",
+    "RouteID": "16468",
+    "RouteName": {
+      "Zh_tw": "57",
+      "En": "57"
+    },
+    "Direction": 1,
+    "EstimateTime": 116,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2022-08-13T13:21:50+08:00",
+    "UpdateTime": "2022-08-13T13:21:52+08:00"
+  },
+  {
+    "StopUID": "NWT127748",
+    "StopID": "127748",
+    "StopName": {
+      "Zh_tw": "永利路",
+      "En": "Yongli Rd."
+    },
+    "RouteUID": "NWT16468",
+    "RouteID": "16468",
+    "RouteName": {
+      "Zh_tw": "57",
+      "En": "57"
+    },
+    "Direction": 1,
+    "EstimateTime": 75,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2022-08-13T13:21:50+08:00",
+    "UpdateTime": "2022-08-13T13:21:52+08:00"
+  },
+  {
+    "StopUID": "NWT127747",
+    "StopID": "127747",
+    "StopName": {
+      "Zh_tw": "福和國中",
+      "En": "Fuhe Junior High School"
+    },
+    "RouteUID": "NWT16468",
+    "RouteID": "16468",
+    "RouteName": {
+      "Zh_tw": "57",
+      "En": "57"
+    },
+    "Direction": 1,
+    "EstimateTime": 4,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2022-08-13T13:21:50+08:00",
+    "UpdateTime": "2022-08-13T13:21:52+08:00"
+  },
+  {
+    "StopUID": "NWT127746",
+    "StopID": "127746",
+    "StopName": {
+      "Zh_tw": "永元路",
+      "En": "Yongyuan Rd."
+    },
+    "RouteUID": "NWT16468",
+    "RouteID": "16468",
+    "RouteName": {
+      "Zh_tw": "57",
+      "En": "57"
+    },
+    "Direction": 1,
+    "EstimateTime": 170,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2022-08-13T13:21:50+08:00",
+    "UpdateTime": "2022-08-13T13:21:52+08:00"
+  },
+  {
+    "StopUID": "NWT127745",
+    "StopID": "127745",
+    "StopName": {
+      "Zh_tw": "民生路",
+      "En": "Minsheng Rd."
+    },
+    "RouteUID": "NWT16468",
+    "RouteID": "16468",
+    "RouteName": {
+      "Zh_tw": "57",
+      "En": "57"
+    },
+    "Direction": 1,
+    "EstimateTime": 59,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2022-08-13T13:21:50+08:00",
+    "UpdateTime": "2022-08-13T13:21:52+08:00"
+  },
+  {
+    "StopUID": "NWT127744",
+    "StopID": "127744",
+    "StopName": {
+      "Zh_tw": "自立路",
+      "En": "Zili Rd."
+    },
+    "RouteUID": "NWT16468",
+    "RouteID": "16468",
+    "RouteName": {
+      "Zh_tw": "57",
+      "En": "57"
+    },
+    "Direction": 1,
+    "EstimateTime": 964,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2022-08-13T13:21:50+08:00",
+    "UpdateTime": "2022-08-13T13:21:52+08:00"
+  },
+  {
+    "StopUID": "NWT127743",
+    "StopID": "127743",
+    "StopName": {
+      "Zh_tw": "秀山國小",
+      "En": "Xiushan Elementary School"
+    },
+    "RouteUID": "NWT16468",
+    "RouteID": "16468",
+    "RouteName": {
+      "Zh_tw": "57",
+      "En": "57"
+    },
+    "Direction": 1,
+    "EstimateTime": 903,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2022-08-13T13:21:50+08:00",
+    "UpdateTime": "2022-08-13T13:21:52+08:00"
+  },
+  {
+    "StopUID": "NWT127788",
+    "StopID": "127788",
+    "StopName": {
+      "Zh_tw": "亞東科技大學",
+      "En": "Oriental University of Science & Technology"
+    },
+    "RouteUID": "NWT16468",
+    "RouteID": "16468",
+    "RouteName": {
+      "Zh_tw": "57",
+      "En": "57"
+    },
+    "Direction": 1,
+    "EstimateTime": 305,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2022-08-13T13:21:50+08:00",
+    "UpdateTime": "2022-08-13T13:21:52+08:00"
+  },
+  {
+    "StopUID": "NWT127787",
+    "StopID": "127787",
+    "StopName": {
+      "Zh_tw": "豫章工商",
+      "En": "Yuzhang High School of Industrry and Commerce"
+    },
+    "RouteUID": "NWT16468",
+    "RouteID": "16468",
+    "RouteName": {
+      "Zh_tw": "57",
+      "En": "57"
+    },
+    "Direction": 1,
+    "EstimateTime": 198,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2022-08-13T13:21:50+08:00",
+    "UpdateTime": "2022-08-13T13:21:52+08:00"
+  }
+]

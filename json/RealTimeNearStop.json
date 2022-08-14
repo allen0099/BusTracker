@@ -1,0 +1,121 @@
+[
+  {
+    "PlateNumb": "707-U3",
+    "OperatorID": "700",
+    "RouteUID": "TPE10785",
+    "RouteID": "10785",
+    "RouteName": {
+      "Zh_tw": "672",
+      "En": "672"
+    },
+    "SubRouteUID": "TPE107850",
+    "SubRouteID": "107850",
+    "SubRouteName": {
+      "Zh_tw": "672",
+      "En": "672"
+    },
+    "Direction": 1,
+    "StopUID": "TPE38913",
+    "StopID": "38913",
+    "StopName": {
+      "Zh_tw": "市民住宅",
+      "En": "Citizens Housing"
+    },
+    "StopSequence": 11,
+    "DutyStatus": 1,
+    "BusStatus": 0,
+    "A2EventType": 1,
+    "GPSTime": "2022-08-14T11:56:43+08:00",
+    "SrcUpdateTime": "2022-08-14T11:56:50+08:00",
+    "UpdateTime": "2022-08-14T11:56:52+08:00"
+  },
+  {
+    "PlateNumb": "FAA-159",
+    "OperatorID": "700",
+    "RouteUID": "TPE10785",
+    "RouteID": "10785",
+    "RouteName": {
+      "Zh_tw": "672",
+      "En": "672"
+    },
+    "SubRouteUID": "TPE107850",
+    "SubRouteID": "107850",
+    "SubRouteName": {
+      "Zh_tw": "672",
+      "En": "672"
+    },
+    "Direction": 1,
+    "StopUID": "TPE38942",
+    "StopID": "38942",
+    "StopName": {
+      "Zh_tw": "中正環河路口",
+      "En": "Zhongzheng&Huanhe Rd.Intersection"
+    },
+    "StopSequence": 33,
+    "DutyStatus": 2,
+    "A2EventType": 1,
+    "GPSTime": "2022-08-14T11:56:33+08:00",
+    "SrcUpdateTime": "2022-08-14T11:56:50+08:00",
+    "UpdateTime": "2022-08-14T11:56:52+08:00"
+  },
+  {
+    "PlateNumb": "FAA-161",
+    "OperatorID": "700",
+    "RouteUID": "TPE10785",
+    "RouteID": "10785",
+    "RouteName": {
+      "Zh_tw": "672",
+      "En": "672"
+    },
+    "SubRouteUID": "TPE107850",
+    "SubRouteID": "107850",
+    "SubRouteName": {
+      "Zh_tw": "672",
+      "En": "672"
+    },
+    "Direction": 1,
+    "StopUID": "TPE38922",
+    "StopID": "38922",
+    "StopName": {
+      "Zh_tw": "臺灣科技大學",
+      "En": "NTUST"
+    },
+    "StopSequence": 20,
+    "DutyStatus": 1,
+    "BusStatus": 0,
+    "A2EventType": 1,
+    "GPSTime": "2022-08-14T11:56:43+08:00",
+    "SrcUpdateTime": "2022-08-14T11:56:50+08:00",
+    "UpdateTime": "2022-08-14T11:56:52+08:00"
+  },
+  {
+    "PlateNumb": "KKA-0359",
+    "OperatorID": "700",
+    "RouteUID": "TPE10785",
+    "RouteID": "10785",
+    "RouteName": {
+      "Zh_tw": "672",
+      "En": "672"
+    },
+    "SubRouteUID": "TPE107850",
+    "SubRouteID": "107850",
+    "SubRouteName": {
+      "Zh_tw": "672",
+      "En": "672"
+    },
+    "Direction": 1,
+    "StopUID": "TPE38906",
+    "StopID": "38906",
+    "StopName": {
+      "Zh_tw": "長壽公園",
+      "En": "Changshou Park"
+    },
+    "StopSequence": 4,
+    "DutyStatus": 1,
+    "BusStatus": 0,
+    "A2EventType": 1,
+    "GPSTime": "2022-08-14T11:56:47+08:00",
+    "SrcUpdateTime": "2022-08-14T11:56:50+08:00",
+    "UpdateTime": "2022-08-14T11:56:52+08:00"
+  }
+]

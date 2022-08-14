@@ -1,0 +1,72 @@
+[
+  {
+    "RouteUID": "TPE10785",
+    "RouteID": "10785",
+    "HasSubRoutes": true,
+    "Operators": [
+      {
+        "OperatorID": "700",
+        "OperatorName": {
+          "Zh_tw": "欣欣客運",
+          "En": "Shin-Shin Bus Co., Ltd."
+        },
+        "OperatorCode": "ShinshinBus",
+        "OperatorNo": "0813"
+      }
+    ],
+    "AuthorityID": "004",
+    "ProviderID": "045",
+    "SubRoutes": [
+      {
+        "SubRouteUID": "TPE107850",
+        "SubRouteID": "107850",
+        "OperatorIDs": [
+          "700"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "672",
+          "En": "672"
+        },
+        "Direction": 0,
+        "FirstBusTime": "0520",
+        "LastBusTime": "2310",
+        "HolidayFirstBusTime": "0520",
+        "HolidayLastBusTime": "2310"
+      },
+      {
+        "SubRouteUID": "TPE107850",
+        "SubRouteID": "107850",
+        "OperatorIDs": [
+          "700"
+        ],
+        "SubRouteName": {
+          "Zh_tw": "672",
+          "En": "672"
+        },
+        "Direction": 1,
+        "FirstBusTime": "0520",
+        "LastBusTime": "2310",
+        "HolidayFirstBusTime": "0520",
+        "HolidayLastBusTime": "2310"
+      }
+    ],
+    "BusRouteType": 11,
+    "RouteName": {
+      "Zh_tw": "672",
+      "En": "672"
+    },
+    "DepartureStopNameZh": "大鵬新城",
+    "DepartureStopNameEn": "Dapeng New Village",
+    "DestinationStopNameZh": "民生社區",
+    "DestinationStopNameEn": "Mingsheng Community",
+    "TicketPriceDescriptionZh": "兩段票",
+    "TicketPriceDescriptionEn": "2 segments",
+    "FareBufferZoneDescriptionZh": "(往)捷運公館站－捷運古亭站(和平)、(返)三興國小(臨江街觀光夜市)－公館",
+    "FareBufferZoneDescriptionEn": "(Go)MRT Gongguan －MRT Guting(Heping)、(Back)Sanxing Elementary School－Gongguan",
+    "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100067200",
+    "City": "Taipei",
+    "CityCode": "TPE",
+    "UpdateTime": "2022-08-13T03:34:49+08:00",
+    "VersionID": 1864
+  }
+]
