@@ -1,14 +1,9 @@
-import base64
-import hmac
-import json
-from datetime import datetime
-from hashlib import sha1
+import os
+from datetime import datetime, timedelta
 from pathlib import Path
-from time import mktime
 from typing import Optional
-from wsgiref.handlers import format_date_time
 
-from requests import request, Response
+from requests import request, Response, post
 
 from api import enums
 
@@ -16,10 +11,13 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 
 
 class ApiBase:
-    BASE_URL: str = 'https://ptx.transportdata.tw/MOTC'
-    APP_ID: str = ''
-    APP_KEY: str = ''
-    MOCK: bool = True
+    BASE_URL: str = 'https://tdx.transportdata.tw/api/basic/'
+
+    ACCESS_TOKEN: Optional[str] = None
+    EXPIRE_DATE: Optional[datetime] = None
+
+    APP_ID: str = os.getenv('APP_ID')
+    APP_KEY: str = os.getenv('APP_KEY')
 
     def __init__(self, route: str = None):
         self.api_route: Optional[str] = route
@@ -40,19 +38,19 @@ class ApiBase:
         return request(
             'GET', f'{self.BASE_URL}{self.api_route}',
             params=self.params,
-            headers=self.auth_header
+            headers=self.get_data_header()
         )
 
     @property
     def data(self):
         req = self.get()
 
-        if self.MOCK:
-            # Mock data from API route, file name is resource name
-            test_file = self.api_route.split('/')[3]
-
-            with open(f"{BASE_DIR}/json/{test_file}.json", encoding="UTF-8") as f:
-                return json.load(f)
+        # if self.MOCK:
+        #     # Mock data from API route, file name is resource name
+        #     test_file = self.api_route.split('/')[3]
+        #
+        #     with open(f"{BASE_DIR}/json/{test_file}.json", encoding="UTF-8") as f:
+        #         return json.load(f)
 
         if req.ok:
             return req.json()
@@ -81,19 +79,33 @@ class ApiBase:
 
         return return_data
 
-    @property
-    def auth_header(self) -> dict[str, str]:
-        # https://github.com/ptxmotc/Sample-code/blob/master/Python3/auth.py
-        xdate = format_date_time(mktime(datetime.now().timetuple()))
-        hashed = hmac.new(self.APP_KEY.encode('utf8'), ('x-date: ' + xdate).encode('utf8'), sha1)
-        signature = base64.b64encode(hashed.digest()).decode()
+    def _refresh_token(self) -> None:
+        if not self.EXPIRE_DATE:
+            # Set expire date to 1 hour before now
+            self.EXPIRE_DATE = datetime.now() + timedelta(hours=-1)
 
-        authorization = 'hmac username="' + self.APP_ID + '", ' + \
-                        'algorithm="hmac-sha1", ' + \
-                        'headers="x-date", ' + \
-                        'signature="' + signature + '"'
+        if self.EXPIRE_DATE < datetime.now():
+            # Modified from
+            # https://github.com/tdxmotc/SampleCode/blob/master/Python3/auth_TDX.py
+            auth_url: str = 'https://tdx.transportdata.tw/auth/realms/TDXConnect/protocol/openid-connect/token'
+            r: Response = post(auth_url, {
+                'content-type': 'application/x-www-form-urlencoded',
+                'grant_type': 'client_credentials',
+                'client_id': self.APP_ID,
+                'client_secret': self.APP_KEY
+            })
+
+            if not r.ok:
+                raise Exception(r.text)
+
+            auth_data: dict = r.json()
+
+            self.ACCESS_TOKEN = auth_data.get('access_token')
+            self.EXPIRE_DATE = datetime.now() + timedelta(seconds=auth_data.get('expires_in'))
+
+    def get_data_header(self):
+        self._refresh_token()
+
         return {
-            'Authorization': authorization,
-            'x-date': format_date_time(mktime(datetime.now().timetuple())),
-            'Accept-Encoding': 'gzip'
+            'authorization': 'Bearer ' + self.ACCESS_TOKEN
         }

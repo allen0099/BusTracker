@@ -1,20 +1,21 @@
 # BusTracker
 
-## Environment
+## Prepare environment
 
 - Python version >= 3.10
 
 ```shell
+# In virtual environment
 pip install -r requirements.txt
+
+# Prepare API ID and API Key here
+cp .env.example .env
 ```
 
-## Usage
+## Example
 
 1. Prepare client and tracking event.
 2. Run the client, client will track every event every 15 seconds.
-3. Prepare API id and API key for API calling,
-   due to I still not pass the register,
-   I will use mock data and won't change during time.
 
 ```python
 from api.enums import Cities
@@ -31,18 +32,13 @@ client.add_event(event)
 client.run()
 ```
 
-## API
-
-- If you have the API id and API key, put them in `API_ID` and `API_KEY` in `API/base.py`.
-- Set `MOCK` to `False` in `API/base.py` and check if API can work.
-
 ## Future Work
 
-- Use real API to fetch data.
-- Allow to add event after client start.
-- Allow cancel event after client start.
-- Make sure events are always unique, override `__new__` and `__init__` method?
-- Rewrite API call methods.
+- [X] Use real API to fetch data.
+- [ ] Rewrite API call methods.
+- [ ] Allow to add event after client start.
+- [ ] Allow cancel event after client start.
+- [ ] Make sure events are always unique, override `__new__` and `__init__` method?
 
 ## Author
 
